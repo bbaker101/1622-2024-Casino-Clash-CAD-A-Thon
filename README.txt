@@ -6,7 +6,7 @@ Writeup will be on a Google DOC.
 REMEMBER TO PUSH OFTEN, and KEEP BACKUPS.
 
 Roughing on roles:
-	- Ani      -> Intake (LOCKED)
-	- Bryan  -> Elevator/Outtake (open)
+	- Ani       -> Intake (LOCKED)
+	- Bryan   -> Elevator/Outtake (open)
 	- Kaito   -> Drivebase & Bumpers (LOCKED)
 	- Kenji   -> Elevator/Outtake (open)
