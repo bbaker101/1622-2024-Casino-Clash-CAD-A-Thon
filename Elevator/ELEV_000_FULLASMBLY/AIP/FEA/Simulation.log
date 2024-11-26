@@ -1,0 +1,17 @@
+﻿Study Static Analysis:1 started: 11/25/2024, 9:00:33 PM
+Number of configurations: 1
+Default mesh: 2840485 elements, 4568796 nodes
+Mesh at contact 332 is too coarse
+Mesh at contact 333 is too coarse
+Mesh at contact 334 is too coarse
+Mesh at contact 335 is too coarse
+Mesh at contact 450 is too coarse
+Mesh at contact 451 is too coarse
+Mesh at contact 452 is too coarse
+Mesh at contact 453 is too coarse
+Solution time 214s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1.23  on element 16983 finished: 11/25/2024, 9:09:12 PM
+Total time 0:08:39
+
